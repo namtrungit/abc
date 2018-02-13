@@ -1,4 +1,4 @@
-function greetPerson(name) {
+function greetPerson1(name) {
     var greet;
     if (name === "Chandler") {
         greet = "Hello Chandler";
@@ -7,4 +7,4 @@ function greetPerson(name) {
     }
     console.log(greet);
 }
-greetPerson("Chandler");
+greetPerson1("Chandler");

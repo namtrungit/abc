@@ -1,7 +1,7 @@
 let displayColors = function (...colors: string[]) {
     console.log(arguments.length);
 }
-let message = "Hello";
-displayColors(message,'Red');
-displayColors(message,'Red', 'Green');
-displayColors(message,'Red', 'Green', 'Blue');
+let message1 = "Hello";
+displayColors(message1,'Red');
+displayColors(message1,'Red', 'Green');
+displayColors(message1,'Red', 'Green', 'Blue');

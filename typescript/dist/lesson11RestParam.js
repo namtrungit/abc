@@ -5,8 +5,8 @@ var displayColors = function () {
     }
     console.log(arguments.length);
 };
-var message = "Hello";
-displayColors(message, 'Red');
-displayColors(message, 'Red', 'Green');
-displayColors(message, 'Red', 'Green', 'Blue');
+var message1 = "Hello";
+displayColors(message1, 'Red');
+displayColors(message1, 'Red', 'Green');
+displayColors(message1, 'Red', 'Green', 'Blue');
 //# sourceMappingURL=lesson11RestParam.js.map

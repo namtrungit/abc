@@ -1,6 +1,6 @@
-var name = "TEDU";
+var name1 = "TEDU";
 var message = `
-        Welome ${name} to ES6 and TypeScript
+        Welome ${name1} to ES6 and TypeScript
         This is tutorial series for ES6 and Typescript
 `;
 
