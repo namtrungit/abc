@@ -10,4 +10,4 @@ var displayColorsSpread = function (message) {
 var messageSpread = "Hello";
 var colors = ['Red', 'Green', 'Blue'];
 displayColorsSpread.apply(void 0, [messageSpread].concat(colors));
-//# sourceMappingURL=lesson12.js.map
+//# sourceMappingURL=lesson12SpreadParam.js.map

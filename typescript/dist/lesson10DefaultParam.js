@@ -10,4 +10,4 @@ getBonus();
 getBonus(60);
 getBonus(20, 40);
 getBonus(20, 40, 10);
-//# sourceMappingURL=lesson10.js.map
+//# sourceMappingURL=lesson10DefaultParam.js.map

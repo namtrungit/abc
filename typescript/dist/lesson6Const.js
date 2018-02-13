@@ -5,4 +5,4 @@ var obj = {
     name: "TEDU"
 };
 console.log(obj.name);
-//# sourceMappingURL=lesson6.js.map
+//# sourceMappingURL=lesson6Const.js.map

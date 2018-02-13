@@ -17,4 +17,4 @@ if (a === 1) {
 }
 console.log(a);
 console.log(b);
-//# sourceMappingURL=lesson4.js.map
+//# sourceMappingURL=lesson4Let.js.map

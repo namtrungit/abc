@@ -9,4 +9,4 @@ var message = "Hello";
 displayColors(message, 'Red');
 displayColors(message, 'Red', 'Green');
 displayColors(message, 'Red', 'Green', 'Blue');
-//# sourceMappingURL=lesson11.js.map
+//# sourceMappingURL=lesson11RestParam.js.map

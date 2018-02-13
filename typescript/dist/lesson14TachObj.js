@@ -7,4 +7,4 @@ var f = emp.fname, l = emp.lname, lv = emp.level;
 console.log(f);
 console.log(l);
 console.log(lv);
-//# sourceMappingURL=lesson14.js.map
+//# sourceMappingURL=lesson14TachObj.js.map

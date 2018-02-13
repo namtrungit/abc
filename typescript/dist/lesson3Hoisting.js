@@ -9,4 +9,4 @@ function greetPerson(name) {
     console.log(greet);
 }
 greetPerson("Chandler");
-//# sourceMappingURL=lesson3.js.map
+//# sourceMappingURL=lesson3Hoisting.js.map

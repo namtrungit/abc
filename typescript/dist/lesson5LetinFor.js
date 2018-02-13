@@ -6,4 +6,4 @@ var _loop_1 = function (i) {
 for (var i = 1; i <= 5; i++) {
     _loop_1(i);
 }
-//# sourceMappingURL=lesson5.js.map
+//# sourceMappingURL=lesson5LetinFor.js.map
